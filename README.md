@@ -28,8 +28,9 @@ Swagger
 ⚙️ Installation
 
 Clone the repository:
+https://github.com/Glory-mmachi/My-blog.git
 
-cd my-blog
+cd My-blog
 
 
 Install dependencies:
